@@ -4,3 +4,5 @@
 *.pdb
 *.cache
 .vs/
+!lib/*.dll
+!lib/**/*.dll
